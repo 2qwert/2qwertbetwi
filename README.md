@@ -7,4 +7,8 @@
 #뱃지 스타일 변경하기 예)Android
 ##스타일: plastic, flat, flat-square, for-the-badge, social이 있다
 <img src="https://img.shields.io/badge/Android-green?style=plasric&logo=Android&logoColor=00A98F"/>
+
+###이이이이
+
+
 <img src="https://img.shields.io/badge/Android-green?style=flat&logo=Android&logoColor=00A98F"/>
