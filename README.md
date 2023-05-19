@@ -3,12 +3,15 @@
 
 
 #뱃지 스타일 변경하기 예)Android
+
+
+
 ##스타일: plastic, flat, flat-square, for-the-badge, social이 있다
    
    
 
-   plastic&logo
-   <img src="https://img.shields.io/badge/Android-green?style=plasric&logo=Android&logoColor=00A98F"/>
+plastic&logo
+<img src="https://img.shields.io/badge/Android-green?style=plasric&logo=Android&logoColor=00A98F"/>
 
 
 
