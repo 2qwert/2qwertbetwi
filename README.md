@@ -5,4 +5,4 @@
 
 
 
-<img src="https://img.shields.io/badge/Android-green?style=flat&logo=Android&logoColor=00A98F"/>
+<img src="https://img.shields.io/badge/Android-00A98F?style=flat&logo=Android&logoColor=00A98F"/>
