@@ -2,11 +2,11 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
 
 
-#뱃지 스타일 변경하기 예)Android
+##뱃지 만들기뱃지 예)Android
 
 
 
-##스타일: plastic, flat, flat-square, for-the-badge, social이 있다
+##뱃지스타일: plastic, flat, flat-square, for-the-badge, social이 있다
    
    
 
