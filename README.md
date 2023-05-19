@@ -26,7 +26,7 @@ plastic&logo
 
 
 #####for-the-badge&logo
-<img src="https://img.shields.io/badge/Android-green?style=for-the-badge&logo=Android&logoColor=00A98F"/>
+<img src="https://img.shields.io/badge/안드로이드의종류-Android-green?style=for-the-badge&logo=Android&logoColor=00A98F"/>
 
 
 
