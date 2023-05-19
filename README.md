@@ -8,14 +8,16 @@
 ##스타일: plastic, flat, flat-square, for-the-badge, social이 있다
    
    
-   
+
    plastic&logo
    <img src="https://img.shields.io/badge/Android-green?style=plasric&logo=Android&logoColor=00A98F"/>
 
 
 
-
-###이이이이아니느니
-
-
+###flat&logo
 <img src="https://img.shields.io/badge/Android-green?style=flat&logo=Android&logoColor=00A98F"/>
+
+
+
+####flat-square&logo
+<img src="https://img.shields.io/badge/Android-green?style=flat-square&logoo=Android&logoColor=00A98F"/>
