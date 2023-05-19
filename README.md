@@ -24,7 +24,7 @@ plastic&logo
 
 
 ####flat-square&logo
-<img src="https://img.shields.io/badge/Android-green?style=flat-square&logo=Android&logoColor=00A98F"/>
+<img src="https://img.shields.io/badge/Android-green?style=flat-square&logo=&logoColor=00A98F"/>
 
 
 
